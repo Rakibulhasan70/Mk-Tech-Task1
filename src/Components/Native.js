@@ -10,7 +10,7 @@ const Native = () => {
                 </div>
                 <div className="col-lg-6 text-start">
                     <h4 style={{ color: '#FF6F00' }}>NATIVE</h4>
-                    <h5>Books about our BookStores  The Storied Life of A. J. Fikry · Gabrielle Zevin · The Bookish Life of Nina Hill · Abbi Waxman · Mr Penumbra's 24-Hour Bookstore · Stories For Book Lovers, Books About Bookstores, Books about Books and Libraries etc.
+                    <h5>Books about our BookStores  The Storied Life of A. J. Fikry · Gabrielle Zevin, The Bookish Life of Nina Hill,  Abbi Waxman·Mr Penumbra's 24-Hour, Stories of Libraries,Novel,Books of Bangabandhu Sheikh Mujibur Rahman’s, Islamic book,Science-fiction book  etc.
                     </h5>
                 </div>
             </div>
