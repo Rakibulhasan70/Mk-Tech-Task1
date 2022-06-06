@@ -1,13 +1,14 @@
 import React from 'react';
 import './Header.css'
 import { Container, Nav, Navbar } from 'react-bootstrap';
+import book from '../../src/image/book.png'
 
 const Header = () => {
     return (
         <div className='header'>
             <Navbar collapseOnSelect expand="lg" variant="dark">
                 <Container >
-                    <Navbar.Brand style={{ color: '#644F9C' }}>LOGO</Navbar.Brand>
+                    <Navbar.Brand style={{ color: '#644F9C' }}><img width='180px' src={book} alt="" /> </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto navbar">

@@ -11,3 +11,9 @@
 .versatile:hover {
     background-color: #FF6F00;
 }
+
+@media only screen and (max-width: 576px) {
+    .nested {
+        margin: 0;
+    }
+}

@@ -2,6 +2,7 @@ import React from 'react';
 import fb from '../../src/image/social/facebook.png'
 import google from '../../src/image/social/google.png'
 import github from '../../src/image/social/github.png'
+import book from '../../src/image/book.png'
 
 const Footer = () => {
     return (
@@ -13,7 +14,7 @@ const Footer = () => {
                     <img width='30px' src={fb} alt="" />
                     <img src={google} alt="" />
                     <img src={github} alt="" />
-                    <h6>LOGO</h6>
+                    <h6><img width='200' src={book} alt="" /></h6>
                 </div>
                 <div className="col-lg-3">
                     <p style={{ color: '#644F9C', fontFamily: 'sans-serif' }}>Links</p>

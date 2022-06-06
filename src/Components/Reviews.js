@@ -17,7 +17,7 @@ const Reviews = () => {
                 </div>
                 <div className="col-lg-4 third mx-2">
                     <h2>8K+</h2>
-                    <h5>Global Publishers</h5>
+                    <p>Global Publishers</p>
                 </div>
             </div>
         </div>
