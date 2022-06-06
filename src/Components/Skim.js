@@ -9,8 +9,7 @@ const Skim = () => {
                 </div>
                 <div className="col-lg-6 text-start">
                     <h4 style={{ color: '#FF6F00' }}>SKIM</h4>
-                    <h5>We Check the advertisement appears
-                        to the user.
+                    <h5>Reading is a key component of early literacy development and you can set an example of just how crucial this is by modeling the behaviour yourself. Children are excellent at mimicking the adults around them which means that if you regularly set aside some "me time" for reading, your children will learn to do the same.
                     </h5>
                 </div>
             </div>
