@@ -1,0 +1,13 @@
+.versatile {
+    padding: 2px 30px;
+    border: 1px solid white;
+    box-shadow: 0px 10px 10px lightgrey;
+    border-radius: 30px;
+    font-weight: 500;
+    font-family: sans-serif;
+
+}
+
+.versatile:hover {
+    background-color: #FF6F00;
+}
