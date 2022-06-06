@@ -7,6 +7,7 @@ import PopUnder from './Components/PopUnder';
 import BannerAdd from './Components/BannerAdd';
 import Native from './Components/Native';
 import Skim from './Components/Skim';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           </Route>
         </Route>
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }

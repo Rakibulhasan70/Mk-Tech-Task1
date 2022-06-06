@@ -1,0 +1,26 @@
+.first {
+    padding: 35px;
+    border: 1px dashed white;
+    border-radius: 50%;
+    width: 16%;
+
+
+}
+
+.second {
+    padding: 35px;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 16%;
+    background-color: white;
+    color: #644F9C;
+}
+
+.third {
+    padding: 35px;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 16%;
+    background-color: #da772b;
+    color: white;
+}
